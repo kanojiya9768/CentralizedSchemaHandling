@@ -1,0 +1,37 @@
+{
+  "name": "@kanojiya9768/CentralizedSchemaHandlling",
+  "version": "1.2.0",
+  "description": "A package for MongoDB model schema definitions and connection management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanojiya9768/CentralizedSchemaHandlling.git"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "schema",
+    "model",
+    "database"
+  ],
+  "author": "Author <author@org.co>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanojiya9768/CentralizedSchemaHandlling/issues"
+  },
+  "homepage": "https://github.com/kanojiya9768/CentralizedSchemaHandlling/#readme",
+  "dependencies": {
+    "mongoose": "^5.13.7",
+    "validator": "^13.0.0",
+    "bcryptjs": "^2.4.3"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/kanojiya9768"
+  }
+}
