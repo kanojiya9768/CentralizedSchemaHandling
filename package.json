@@ -1,5 +1,5 @@
 {
-  "name": "@kanojiya9768/CentralizedSchemaHandlling",
+  "name": "@kanojiya9768/centralizedschemahandlling",
   "version": "1.2.0",
   "description": "A package for MongoDB model schema definitions and connection management",
   "main": "index.js",
